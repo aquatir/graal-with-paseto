@@ -1,0 +1,10 @@
+[
+  {
+    "name": "org.apache.tuweni.crypto.sodium.Sodium",
+    "allDeclaredFields": true,
+    "allPublicFields": true,
+    "allDeclaredMethods": true,
+    "allPublicMethods": true
+  }
+]
+
